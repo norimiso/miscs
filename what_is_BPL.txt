@@ -1,0 +1,140 @@
+[Self introduction]
+Hi all.
+
+I am NORI, a member of Team Ryu☆ on BEMANI PRO LEAGUE ZERO (BPL ZERO).
+At first, I was selected as a support (spare) member of BPL ZERO, but unfortunately MIKAMO-san, who was originally named as Team Ryu☆'s first-round pick, had no other choice but withdraw his entry for BPL ZERO.
+From above, I was designated by Ryu☆-san as a pinch hitter.
+
+First of all, thank you so much for reading this note. I really appreciate it.
+
+I'm a Japanese who have not trained in English writing, so it should be hard for you to read this note because there might be so many weird wordings, sentences or phrases.
+
+Still, I am trying to write this with my own English as much as I can to tell my thoughts directly to you guys . (I mean I will try not to do "write Japanese sentences, translate them to English, and just paste it" (I know that you could read easier if I do so))
+The REASON why I write this note.
+
+- To make more people all over the world know that a music game e-sports competition will be held.
+- I understand the conditions are not easy for non-Japanese players, I want to motivate everyone to participate BPL.
+
+
+[What is BPL? What is (was) BPL ZERO?]
+Below is the official "What is BPL" page.
+(Please use translators...)
+{link}
+
+KONAMI finally started to use their own BEMANI series for e-sports.
+
+BPL (stands for Bemani Pro League) is the first e-sport pro league for music game in Japan.
+
+beatmania IIDX has been elected as the first game for BPL.
+
+The sponsors of BPL are the companies running game centers in (mainly) Japan.
+The total amount of prizes are planned to be around 20 M JPY (~=200 K USD).
+
+However BPL is postponed to 2021 because of COVID-19.
+
+In response to it, KONAMI decided to host BPL ZERO as a event to promote BPL in 2021.
+Below is also official introduction page for BPL ZERO. Please check this via translators.
+{link}
+
+Originally, BPL has 6 teams and each team has 4 members. Each teams are sponsored by each company.
+Below is the press release for BPL.
+{link}
+
+BPL ZERO, however, has 3 teams and each team has 4 members, and each teams are not sponsored. Instead of this, each team's manager are, Ryu☆, Mirin Furukawa (from Dempagumi.inc), and Yashiro Kizuku(社築, a famous Vtuber).
+
+Now (2021-02-06) BPL 2021 is open for entry (~ 2020-02-14)
+{link}
+
+[Rules of BPL ZERO (and BPL 2021)]
+
+Rules of BPL 2021 and BPL ZERO are described (in Japanese) within below pages.
+I will try to summarize rules in English but please use translators as well...
+{link}
+{link}
+
+Firstly, the rules of BPL2021 is similar to the one of BPL ZERO, so basically, I will explain the rule of BPL ZERO.
+
+Like as other physical pro sports league, BPL has some seasons.
+BPL ZERO has "Regular season" and "Final", and "Semi-final" is added to BPL2021.
+
+At regular season, each teams play 3 on 3 in two round-robin tournament, that means each team have 4 matches in regular season.
+(ex. team A play with B, B, C, C)
+
+Each match has 3 games.
+The first game is called as "先鋒戦" (Senpou-sen) and the player must select songs of ☆8~10.
+The second one is "次鋒戦" (Jihou-sen) and level restriction is ☆11.
+And final game is "大将戦" (Taishou-sen) and ☆12.
+
+And each game has its own "theme".
+The players must select songs within a "theme" and level restriction.
+Song list is shown below.
+{link}
+
+Each game is 1 on 1 match, and each player select one song from songs lists within a limitation, so each player plays two songs in a game.
+The winner for each song takes 1 (@Senpou-sen) / 2 (@Jihou-sen) / 3 (@Taishou-sen) points.
+(So total points is 2*(1+2+3) = 12 points -> 7 or more points are needed to win)
+
+And the team which has more points wins the match.
+The winner team will get 3 points and the loser team can not get point.
+If the match is draw, each team can get 1 point.
+
+After all 6 matches (2 * (A-B, A-C, B-C)), the top two teams will go to the finals.
+
+The rules for final is basically same as regular season's one, so I omit....
+
+About handicaps
+
+I think this handicaps made this BPL ZERO so interesting, so I also try to explain about this.
+
+Each team is composed by 3 pro players and 1 special member.
+
+[Special members]
+Team Ryu☆: NU-KO (a.k.a Iori Saeki) - 10th Dan
+Team MIRIN: YUNOCY - 8th Dan
+Team YASHIRO: EIKA - Chuden
+
+If a special member play with a pro member, a special member can get some handicaps according to their rank(段位) and when a special member play with other special member, the member whose rank is lower than the opponent can also get handicaps.
+
+Handicaps is calculated as
+vs pro player: {TOP score} - {Average score for their rank)
+vs special member: {Average score for higher rank) - {Average score for lower rank).
+
+So, if a special member get average score for their rank, the pro player have to get TOP score, and, yes, special member can get MAX+ score.
+(NU-KO san got 2020+382 (handicap) = 2402 (MAX+88) at 1st match of 1st season)
+
+[About BPL 2021]
+BPL 2021 is currently (as of 2021-02-06) open for your entry.
+{link}
+
+And BPL 2021 is not closed for only Japanese.
+{link}
+```
+    Q. エントリー条件はありますか？
+    A. KONAMI IDをお持ちの方、日本に在住されている方、2021年4月1日時点で満15歳以上、かつ義務教育課程を修了されている方となります。
+    日本国籍でない方でも、日常会話レベルの日本語コミュニケーション能力があり、2021年シーズン中に日本国外へ移住する予定がない場合はご参加いただけます。
+
+    ↓ (DeepL)
+
+    Q. Are there any entry requirements?
+    A. You must have a KONAMI ID, be a resident of Japan, be at least 15 years old as of April 1, 2021, and have completed compulsory education.
+    If you are not a Japanese citizen, you can still participate if you have the ability to communicate in Japanese at a daily conversational level and do not plan to move outside of Japan during the 2021 season.
+```
+
+I deeply understand that "do not plan to move outside of Japan during the 2021 season. " is really harsh requirements under COVID-19, but if you are all interested, I suggest you to apply for BPL.
+
+[Wrapping up]
+Initially, I want to write about behind the scenes of BPL ZERO, but it's tough for me,,, I'm so sorry.
+I would really appreciate it if you read my former notes via translators.
+
+Again, the reason why I wrote this note is
+- to make more people all over the world know that a music game e-sports competition will be held.
+- to motivate everyone to participate BPL.
+
+If you see/know about BPL for the first time by reading this note, nothing can be better than that for me.
+
+And please tell me if you have anything that you want to know / read about BPL , about beatmania or, literally anything that I can tell you.
+
+Finally, I DO thank you from the bottom of my heart for reading my poor English notes.
+
+Regards,
+NORI
